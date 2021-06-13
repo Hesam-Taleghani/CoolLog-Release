@@ -1,0 +1,1 @@
+# CoolLog-Releases Versioning
